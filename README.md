@@ -1,4 +1,6 @@
-# Neuralink MCP - LLM Integration
+# Neuralink > MCP > LLM Integration
+
+![Neuralink MCP Scheme](img/scheme.png)
 
 This project provides a bridge between OpenAI's Language Models and Neuralink's brain-computer interface using the Model Control Protocol (MCP). It enables direct communication between AI models and neural interfaces, allowing for advanced brain-computer interactions.
 
