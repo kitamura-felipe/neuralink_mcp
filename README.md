@@ -109,7 +109,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Disclaimer
 
-This project is for educational and research purposes only. The Neuralink API integration is simulated and should not be used with actual Neuralink devices without proper authorization and safety measures.
+This is not a real project. It is intended to be an April fools project. But who knows if someone will develop such a thing in the future. The Neuralink API integration is simulated and should not be used with actual Neuralink devices without proper authorization and safety measures.
 
 ## Support
 
